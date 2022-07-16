@@ -2,7 +2,7 @@
 ### Eu sou o Murilo Renato
 
 - 🔭 Iniciando no mundo da programação
-- 🌱 Atualmente estou aprendendo Html, Css
+- 🌱 Atualmente estou aprendendo Javascript
 - 📫 Contate-me pelo email murilo.renato2623@gmail.com
 - 😄 Pronouns:  ele/dele
 - ⚡ Estudante de análise e desenvolvimento de sistemas
