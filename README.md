@@ -2,10 +2,10 @@
 ### Eu sou o Murilo Renato
 
 - 🔭 Iniciando no mundo da programação
-- 🌱 Atualmente estou aprendendo Javascript
+- 🌱 Atualmente estou estudando Desenvolvimento de aplicações mobile, focando em Kotlin
 - 📫 Contate-me pelo email murilo.renato2623@gmail.com
 - 😄 Pronouns:  ele/dele
-- ⚡ Estudante de análise e desenvolvimento de sistemas
+- ⚡ Formado em análise e desenvolvimento de sistemas
 
 
 <div aling = "center">
